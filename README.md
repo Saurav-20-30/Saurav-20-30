@@ -1,9 +1,7 @@
 Hi 👋, I'm Saurav
 
-🎓 B.Tech IT Student
-🔐 Cybersecurity & Ethical Hacking Enthusiast
-💻 Python | Networking | Linux | C | C++
-📍 India
+🎓 B.Tech IT Student | 🔐 Cybersecurity & Ethical Hacking Enthusiast  
+💻 Python | Networking | Linux | C | C++ | 📍 India
 
 ---
 
@@ -35,7 +33,7 @@ I am a motivated IT student with a strong interest in cybersecurity and ethical 
 - Beginner-friendly Python programs
 - Cybersecurity practice projects
 - Notes and experiments related to ethical hacking
-- Well-documented repositories showing my learning journey
+- Well-documented repositories showcasing my learning progress and practical understanding.
 
 ---
 
