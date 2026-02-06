@@ -31,7 +31,7 @@ I’m an IT student deeply interested in cybersecurity and offensive security co
 
 ### 🔴 Offensive Security & Recon Tools
 
-![Metasploit](https://blog.tryhackme.com/content/images/2019/12/metasploit-basic-commands.jpg)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-0040FF?style=for-the-badge)
