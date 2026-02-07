@@ -16,9 +16,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="44"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/960px-Tux.svg.png?20251226180606" height="44"/>
-  <img src="https://www.clipartmax.com/png/small/200-2002598_git-%21.png" height="44"/>
-  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" height="44"/>
-  <img src="https://www.pikpng.com/pngl/m/537-5376074_blog-logo-bash-script-logo-clipart.png" height = "44"/>
+  <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" height="44"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-github-logo-icon-svg-download-png-8630395.png?f=webp" height="44"/>
+  <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" height = "44"/>
 </p>
 
 ---
@@ -42,9 +42,8 @@ I believe good security learning should be:
 
 <p align="center">
   <img src="https://rapid7.github.io/metasploit-framework/assets/images/favicon.png" height="44"/>
-  <img src="https://www.pngwing.com/en/search?q=burp+Suite" height="44"/>
-  <img src="https://commons.wikimedia.org/wiki/File:Sqlmap_logo.png" height="44"/>
-  <img src="https://e7.pngegg.com/pngimages/708/366/png-clipart-wireshark-packet-analyzer-computer-software-protocol-analyzer-leopard-shark-computer-network-text-thumbnail.png" height="44"/>
+  <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" height="44"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/250px-Wireshark_icon.svg.png" height="44"/>
   <img src="https://nmap.org/images/nmap-logo-256x256.png" height="44"/>
 </p>
 
