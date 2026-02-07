@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="44"/>
-  <img src="https://www.clipartmax.com/png/middle/249-2494952_penguin-clipart-profile-linux-logo-vector.png" height="44"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/960px-Tux.svg.png?20251226180606" height="44"/>
   <img src="https://www.clipartmax.com/png/small/200-2002598_git-%21.png" height="44"/>
   <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" height="44"/>
   <img src="https://www.pikpng.com/pngl/m/537-5376074_blog-logo-bash-script-logo-clipart.png" height = "44"/>
