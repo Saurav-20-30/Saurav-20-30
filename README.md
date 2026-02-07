@@ -7,51 +7,51 @@
 <p align="center">
   <i>
     Building strong cybersecurity fundamentals through hands-on labs, real tools,  
-    and a deep understanding of how attacks work and how systems are defended
+    and understanding how attacks work in real-world environments.
   </i>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="42"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" height="42"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" height="42"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" height="42"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" height="42"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" height="42"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="44"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="44"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="44"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="44"/>
 </p>
 
 ---
 
 ## 💜 About Me
 
-I’m a **B.Tech IT student** focused on **cybersecurity and ethical hacking**, learning security the way it works in **real-world environments**, not just theory or tool output.
+I’m a **B.Tech IT student** focused on **cybersecurity and ethical hacking**, learning security the way it works in **real production-like environments**.
 
-My focus is on **understanding attack vectors, exploitation logic, and defensive mechanisms** — building clarity before complexity.
+My focus is on **understanding attacks, not just running tools** — learning the *why*, *how*, and *impact* behind vulnerabilities.
 
 I believe good security learning should be:
 
-- 🧠 **Concept-driven**
-- 🛠️ **Hands-on & practical**
-- 🔐 **Secure by design**
-- 🎯 **Interview & industry aligned**
+- 🧠 Concept-driven  
+- 🛠️ Practice-first  
+- 🔐 Secure by design  
+- 🎯 Interview & industry ready  
 
 ---
 
-## 🧰 Tooling & Security Stack
+## 🧰 Security Tools & Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" height="44"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" height="44"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sqlmap.svg" height="44"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" height="44"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" height="44"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nikto.svg" height="44"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/maltego.svg" height="44"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sherlock.svg" height="44"/>
+  <img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/docs/images/metasploit-logo.png" height="44"/>
+  <img src="https://portswigger.net/content/images/logos/burp-suite.png" height="44"/>
+  <img src="https://raw.githubusercontent.com/sqlmapproject/sqlmap/master/data/images/sqlmap_logo.png" height="44"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" height="44"/>
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" height="44"/>
+</p>
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/0f6c8d8f7b9a6e1b7d8b5c76e3b4d7d8e5a4a0f5f02d0fd8a64f6f1b3b93e5c/68747470733a2f2f6e696b746f2e6e65742f696d616765732f6e696b746f5f6c6f676f2e706e67" height="40"/>
+  <img src="https://www.maltego.com/images/maltego-logo.png" height="40"/>
+  <img src="https://raw.githubusercontent.com/sherlock-project/sherlock/master/docs/images/sherlock.png" height="40"/>
+  <img src="https://dnsdumpster.com/static/images/dnsdumpster.png" height="40"/>
 </p>
 
 ---
@@ -60,29 +60,29 @@ I believe good security learning should be:
 
 - Web application security testing  
 - Network scanning & enumeration  
-- Traffic analysis & packet inspection  
+- Packet capture & traffic analysis  
 - Linux-based security workflows  
-- Python scripting for security automation  
-- CTFs, labs, and vulnerable machines  
+- Python scripting for automation  
+- CTFs, labs & vulnerable machines  
 
 ---
 
 ## 🎯 Current Focus
 
 - Strengthening web & network attack fundamentals  
-- Going deeper into Linux & system internals  
-- Practicing exploitation in safe lab environments  
-- Building small but **real security-focused projects**  
+- Deepening Linux & system internals knowledge  
+- Practicing exploitation in safe environments  
+- Building **real, beginner-to-intermediate security projects**  
 - Preparing for a **cybersecurity internship**
 
 ---
 
 ## 📂 What You’ll Find Here
 
-- Cybersecurity learning repositories  
-- Practical tool-based experiments  
+- Cybersecurity practice repositories  
+- Tool-based experiments with explanations  
 - Python automation scripts  
-- Clear notes explaining **how and why attacks work**  
+- Notes explaining **how attacks work internally**  
 - A visible learning journey — step by step
 
 ---
