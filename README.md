@@ -48,7 +48,7 @@ I believe good security learning should be:
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_of_Shodan.svg/9080px-Logo_of_Shodan.svg.png" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJinH6gZv9d7ZSfkEnHgms0aD3iIrN3i6EHg&s" height="40"/>
   <img src="https://image.pngaaa.com/591/5041591-middle.png" height="40"/>
   <img src="https://miro.medium.com/1*-VY5j6TQckQECpfUP0mUqg.png" height="40"/>
   <img src="https://substackcdn.com/image/fetch/$s_!aTRM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F64cfc7ad-6fbb-4f1a-8d72-7564f3e007e1_250x250.png" height="40"/>
