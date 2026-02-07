@@ -20,6 +20,7 @@
   <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" height = "44"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/250px-Git_icon.svg.png" height="44"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" height="44"/>
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/tryhackme-vpbxyth62mbot3imfcpb08.png/tryhackme-anodupj9mqt3ekhc90qmo9.png?_a=DATAiZAAZAA0" height="44"/>
 </p>
 
 ---
