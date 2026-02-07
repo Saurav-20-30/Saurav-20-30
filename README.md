@@ -40,7 +40,7 @@ I believe good security learning should be:
 ## 🧰 Security Tools & Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/docs/images/metasploit-logo.png" height="44"/>
+  <img src="https://www.pikpng.com/pngvi/iimiRmw_metasploit-project-metasploit-png-clipart/" height="44"/>
   <img src="https://portswigger.net/content/images/logos/burp-suite.png" height="44"/>
   <img src="https://raw.githubusercontent.com/sqlmapproject/sqlmap/master/data/images/sqlmap_logo.png" height="44"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" height="44"/>
