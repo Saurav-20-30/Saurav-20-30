@@ -15,9 +15,10 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="44"/>
+  <img src="https://www.clipartmax.com/png/middle/249-2494952_penguin-clipart-profile-linux-logo-vector.png" height="44"/>
+  <img src="https://www.clipartmax.com/png/small/200-2002598_git-%21.png" height="44"/>
+  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" height="44"/>
+  <img src="https://www.pikpng.com/pngl/m/537-5376074_blog-logo-bash-script-logo-clipart.png" height = "44"/>
 </p>
 
 ---
@@ -41,17 +42,17 @@ I believe good security learning should be:
 
 <p align="center">
   <img src="https://rapid7.github.io/metasploit-framework/assets/images/favicon.png" height="44"/>
-  <img src="https://portswigger.net/content/images/logos/burp-suite.png" height="44"/>
-  <img src="https://raw.githubusercontent.com/sqlmapproject/sqlmap/master/data/images/sqlmap_logo.png" height="44"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" height="44"/>
+  <img src="https://www.pngwing.com/en/search?q=burp+Suite" height="44"/>
+  <img src="https://commons.wikimedia.org/wiki/File:Sqlmap_logo.png" height="44"/>
+  <img src="https://e7.pngegg.com/pngimages/708/366/png-clipart-wireshark-packet-analyzer-computer-software-protocol-analyzer-leopard-shark-computer-network-text-thumbnail.png" height="44"/>
   <img src="https://nmap.org/images/nmap-logo-256x256.png" height="44"/>
 </p>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/0f6c8d8f7b9a6e1b7d8b5c76e3b4d7d8e5a4a0f5f02d0fd8a64f6f1b3b93e5c/68747470733a2f2f6e696b746f2e6e65742f696d616765732f6e696b746f5f6c6f676f2e706e67" height="40"/>
-  <img src="https://www.maltego.com/images/maltego-logo.png" height="40"/>
-  <img src="https://raw.githubusercontent.com/sherlock-project/sherlock/master/docs/images/sherlock.png" height="40"/>
-  <img src="https://dnsdumpster.com/static/images/dnsdumpster.png" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_of_Shodan.svg/9080px-Logo_of_Shodan.svg.png" height="40"/>
+  <img src="https://image.pngaaa.com/591/5041591-middle.png" height="40"/>
+  <img src="https://miro.medium.com/1*-VY5j6TQckQECpfUP0mUqg.png" height="40"/>
+  <img src="https://substackcdn.com/image/fetch/$s_!aTRM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F64cfc7ad-6fbb-4f1a-8d72-7564f3e007e1_250x250.png" height="40"/>
 </p>
 
 ---
