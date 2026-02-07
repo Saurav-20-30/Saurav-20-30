@@ -18,7 +18,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/960px-Tux.svg.png?20251226180606" height="44"/>
   <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" height="44"/>
   <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" height = "44"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/768px-Git_icon.svg.png" height="44"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/250px-Git_icon.svg.png" height="44"/>
 </p>
 
 ---
