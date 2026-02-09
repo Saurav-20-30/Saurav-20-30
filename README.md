@@ -1,4 +1,3 @@
-[Banner](https://drive.google.com/file/d/1Z8ca6QuUXbzJVmay9xk-wCRxgAUwXY5P/view?usp=drivesdk)
 # 👋 Hi, I’m Saurav
 
 <p align="center">
